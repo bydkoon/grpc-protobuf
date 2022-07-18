@@ -1,2 +1,2 @@
 # grpc-protobuf
-Protocol Buffer basic python , go, kotlin, java 
+Protocol Buffer basic python ,kotlin
